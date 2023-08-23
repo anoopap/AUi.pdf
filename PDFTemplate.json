@@ -1,0 +1,63 @@
+{
+	"Doc1": [
+		{
+			"Search Keyword": "Number:",
+			"Type": "text",
+			"Position": "right",
+			"Search Text width": "50",
+			"Search Text Height": "-7",
+			"Search Text AdjustSide": "0",
+			"Search Text AdjustVertical": "1",
+			"Text Width": "20",
+			"Text Gap": "0",
+			"Text Height": "2",
+			"Move Vertical": "6",
+			"Move Side": "50",
+			"Field Name": "No"
+		},
+		{
+			"Table Name": "Invoice",
+			"Type": "singleheadertable",
+			"Table Header": "Invoice",
+			"Table Footer": "",
+			"Skip Header Word": "0",
+			"Skip Footer Word": "0",
+			"Table Header Width": "60",
+			"Table Footer Width": "10",
+			"Global Replace": "",
+			"Line Adjust": "0",
+			"Remove Rows With Text": "Something",
+			"CellWidth": "150",
+			"Fields": [
+				{
+					"Field": "Invoice",
+					"Field Width": "30",
+					"Field Adjust": "0",
+					"Field Splitter": "true",
+					"SkipWord": "0"
+				},
+				{
+					"Field": "Description",
+					"Field Width": "30",
+					"Field Adjust": "0",
+					"Field Splitter": "true",
+					"SkipWord": "0"
+				},
+				{
+					"Field": "Unit",
+					"Field Width": "100",
+					"Field Adjust": "0",
+					"Field Splitter": "true",
+					"SkipWord": "0"
+				},
+				{
+					"Field": "Total",
+					"Field Width": "100",
+					"Field Adjust": "0",
+					"Field Splitter": "true",
+					"SkipWord": "0"
+				}
+			]
+		}
+	]
+}
