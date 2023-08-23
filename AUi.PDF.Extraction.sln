@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUi.PDF.Extraction", "AUi.PDF.Extraction\AUi.PDF.Extraction.csproj", "{CC7AD275-5C8A-4476-B309-69CE681A97AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7AD275-5C8A-4476-B309-69CE681A97AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7AD275-5C8A-4476-B309-69CE681A97AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7AD275-5C8A-4476-B309-69CE681A97AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7AD275-5C8A-4476-B309-69CE681A97AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44906E7E-B169-42F8-B46A-2B80E0E945E1}
+	EndGlobalSection
+EndGlobal

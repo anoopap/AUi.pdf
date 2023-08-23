@@ -1,0 +1,24 @@
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\bin\Debug\net5.0\AUi.PDF.Extraction.deps.json
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\bin\Debug\net5.0\AUi.PDF.Extraction.dll
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\bin\Debug\net5.0\ref\AUi.PDF.Extraction.dll
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\bin\Debug\net5.0\AUi.PDF.Extraction.pdb
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.csproj.AssemblyReference.cache
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.AssemblyInfoInputs.cache
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.AssemblyInfo.cs
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.csproj.CoreCompileInputs.cache
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.dll
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\ref\AUi.PDF.Extraction.dll
+C:\Users\anoop\source\repos\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.pdb
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\bin\Debug\net5.0\AUi.PDF.Extraction.deps.json
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\bin\Debug\net5.0\AUi.PDF.Extraction.dll
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\bin\Debug\net5.0\ref\AUi.PDF.Extraction.dll
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\bin\Debug\net5.0\AUi.PDF.Extraction.pdb
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.csproj.AssemblyReference.cache
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.AssemblyInfoInputs.cache
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.AssemblyInfo.cs
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.csproj.CoreCompileInputs.cache
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.dll
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\ref\AUi.PDF.Extraction.dll
+C:\CareBot - Copy\AUi.PDF.Extraction\AUi.PDF.Extraction\obj\Debug\net5.0\AUi.PDF.Extraction.pdb
